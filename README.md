@@ -4,7 +4,7 @@
 A simple, lightweight, and fully client-side secure file sharing simulator.
 
 # Features
-- Admin Login (Demo: `admin` / `secure123`)
+- Admin Login 
 - Real-time AES-GCM Encryption (256-bit)
 - PBKDF2 Key Derivation
 - Share ID + Password based file sharing
